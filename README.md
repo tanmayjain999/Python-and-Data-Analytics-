@@ -1,2 +1,1 @@
-# Python-and-Data-Analytics-
-SHAPE AI 7 Days Bootcamp Projects 
+# PYTHON-AND-DATA-ANALYTICS-7-DAYS
